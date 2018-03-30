@@ -1,0 +1,6 @@
+
+{
+  "name": "kuzzle-plugin-sample-custom-policies",
+  "version": "1.0.0",
+  "kuzzleVersion": "^1.2.x"
+}

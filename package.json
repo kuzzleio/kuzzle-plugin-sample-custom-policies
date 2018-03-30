@@ -1,0 +1,26 @@
+{
+  "name": "kuzzle-plugin-sample-custom-policies",
+  "author": "The Kuzzle Team <support@kuzzle.io>",
+  "version": "1.0.0",
+  "description": "Kuzzle sample plugin ti manage custom business policies",
+  "main": "lib/index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kuzzleio/kuzzle-plugin-sample-custom-policies.git"
+  },
+  "keywords": [
+    "kuzzle",
+    "plugin",
+    "policies"
+  ],
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/kuzzleio/kuzzle-plugin-sample-custom-policies/issues"
+  },
+  "homepage": "https://github.com/kuzzleio/kuzzle-plugin-sample-custom-policies#readme",
+  "devDependencies": {
+  },
+  "dependencies": {
+  }
+}
